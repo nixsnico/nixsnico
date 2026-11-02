@@ -6,8 +6,6 @@
 
 - 🤝 I'm looking for help with **learning Software engineering**
 
-- 📫 How to reach me **nixsnico.github@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/nj888frfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nj888frfr" height="30" width="40" /></a>
